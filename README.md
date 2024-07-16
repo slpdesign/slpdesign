@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slpdesign
+- 👋 Hi, I’m Emily@slpdesign
 - 👀 I’m interested in building apps for Speech-Language Pathologists
 - 🌱 I’m currently learning how to build apps
 - 💞️ I’m looking to collaborate on making apps
