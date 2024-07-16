@@ -3,19 +3,17 @@
 - 🌱 I’m currently learning how to build apps
 - 💞️ I’m looking to collaborate on making apps
 - 📫 How to reach me: design.ebates@gmail.com
-- 😄 Exprience so far with the course: some of the information in the course is not current and this can create confusion
+- 😄 Exprience so far with the course: I have learned a lot; however, some of the information in the course is not current which can create confusion
 - ⚡ Fun fact: I love coming up with ideas for apps
 
 - Project 1: Light App
 •	By following outlined steps I was able to create an app that toggled off/on like a light
-•	This app was built using Swift
-•	The video did not show how to link the app to GitHub
+•	This app was built using SwiftUI
 
 - Project 2: Apple Pie
 •	By following a step-by-step YouTube tutorial I was able to attempt to make a copy of a game called Apple Pie
 •	Despite attempting to follow each step there were several errors that occurred
-•	The instructor was very helpful in solving the problems
-•	The video did not show how to link the app to GitHub
+•	The instructor was very helpful in explaining where the errors were and how to fix them
 
 
 <!---
